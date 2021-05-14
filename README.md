@@ -5,7 +5,9 @@ This script automates the game stick hero on android devices
 
 Prerequisites:
 pip install pure-python-adb
+
 pip install Pillow
+
 pip install numpy
 
 Usage:
